@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1577144327 source:d:\c_language\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"validation.h"
+	"monthCalendar.h"
+	"dayname.h"
+
+1576507707 d:\c_language\project\monthcalendar.h
+
+1577136752 source:d:\c_language\project\monthcalendar.c
+	<stdbool.h>
+
+1576778283 source:d:\c_language\project\dayname.c
+
+1576778486 d:\c_language\project\dayname.h
+
+1577143310 d:\c_language\project\validation.h
+
+1577143281 source:d:\c_language\project\validation.c
+	<stdio.h>
+
+1576778284 source:f:\cp1\project\dayname.c
+
+1577144328 source:f:\cp1\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"validation.h"
+	"monthCalendar.h"
+	"dayname.h"
+
+1577143312 f:\cp1\project\validation.h
+
+1576507708 f:\cp1\project\monthcalendar.h
+
+1576778488 f:\cp1\project\dayname.h
+
+1577136754 source:f:\cp1\project\monthcalendar.c
+	<stdbool.h>
+
+1577143282 source:f:\cp1\project\validation.c
+	<stdio.h>
+
